@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+ 
+ * What new skills have you learned?
+
+answer- i have learned about ancha tag <a>, paragraph tag <p>, strike tag <strike>, image tag <img> etc.
+
+* What has been easy?
+answer- paragraph tag <p> 
+   
+* What has been difficult?
+ 
+answer- ancha tag <a>
+
+ * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+answer= watching videos from front end i have learned lot of tags which is useful.
